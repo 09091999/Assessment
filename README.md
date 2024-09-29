@@ -1,6 +1,7 @@
 # Assessment
 
 Nymble- MCU to PC.rar and nymble- PC to MCU.rar contains the code to transmit a given piece of text from:
+
       - Your PC to MCU via UART, then from
       - Your MCU to PC via UART
 
